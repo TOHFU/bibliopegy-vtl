@@ -9,6 +9,7 @@
     "lint": "eslint --fix src/*.{ts,vue} && eslint --fix src/**/*.{ts,vue}"
   },
   "dependencies": {
+    "ress": "^5.0.2",
     "vue": "^3.2.25"
   },
   "devDependencies": {
